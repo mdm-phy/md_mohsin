@@ -145,3 +145,13 @@ img {
     text-decoration: underline;
 }
 
+.news-box li {
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+    line-height: 1.5;    /* Better readability */
+}
+
+.news-box li strong {
+    color: #333;         /* Clean date styling */
+}
+
