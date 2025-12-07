@@ -113,7 +113,7 @@ img {
 
 /* Scrollable News Box */
 .news-box {
-    max-height: 180px;        /* Adjust height as needed */
+    max-height: 450px;        /* Adjust height as needed */
     overflow-y: scroll;       /* Vertical scrollbar */
     padding: 10px 15px;
     border-left: 4px solid #ff8800;
